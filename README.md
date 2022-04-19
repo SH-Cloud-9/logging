@@ -1,0 +1,2 @@
+# logging
+DBT artifacts logging
